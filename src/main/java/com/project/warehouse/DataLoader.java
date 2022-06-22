@@ -11,7 +11,10 @@ import org.springframework.stereotype.Component;
 @Component
 @RequiredArgsConstructor
 public class DataLoader implements CommandLineRunner {
-
+//ketmon
+//ketmon
+//ketmon
+//ketmon
     @Value("${spring.sql.init.mode}")
     private String initialMode;
 
